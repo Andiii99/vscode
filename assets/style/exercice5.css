@@ -1,0 +1,50 @@
+body{
+    margin: 10px;
+}
+.ciel{
+    
+    width: 750px;
+    height: 750px;
+    background-color: cornflowerblue;
+}
+.green{
+    position: absolute;
+    background-color: green;
+    width: 300px;
+    height: 300px;
+    margin: 40px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    
+}
+.blue{
+    position: absolute;
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    margin: 40px;
+    border: 2px solid black;
+    left: 350px;
+    box-sizing: border-box;
+}
+.orange{
+    position: absolute;
+    background-color: orangered;
+    width: 300px;
+    height: 300px;
+    margin: 40px;
+    border: 2px solid black;
+    top: 350px;
+    box-sizing: border-box;
+}
+.yellow{
+    position: absolute;
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    margin: 40px;
+    border: 2px solid black;
+    top: 350px;
+    left: 350px;
+    box-sizing: border-box;
+}

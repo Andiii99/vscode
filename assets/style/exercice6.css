@@ -1,0 +1,49 @@
+.ciel{
+    position: relative;
+    width: 600px;
+    height: 600px;
+    background-color: cadetblue;
+    border: 2px solid black;
+    z-index: 1;
+}
+.green{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    background-color: green;
+    border: 2px solid black;
+    top: 20px;
+    left: 20px;
+    z-index: 3;
+}
+.blue{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+    border: 2px solid black;
+    top: 70px;
+    left: 70px;
+    opacity: 0.5;
+    z-index: 4;
+}
+.chocolat{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    background-color: chocolate;
+    border: 2px solid black;
+    bottom: 70px;
+    right: 70px;
+    z-index: 3;
+}
+.yellow{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    background-color: yellow;
+    border: 2px solid black;
+    bottom: 10px;
+    right: 10px;
+    z-index: 2;
+}

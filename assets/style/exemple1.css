@@ -1,0 +1,44 @@
+#center {
+    width: 700px;
+    margin: 20px auto;
+    border: 1px solid;
+    text-align: center;
+  }
+  
+  #center img {
+    width: 600px;
+    /* height: 150px; */
+  }
+  
+  .hatsune {
+    color: white;
+    width: 400px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid black;
+  }
+  
+  /* 
+    background-size:
+    - cover: recadrer l'image dans la zone disponible
+    - contain: contenir l'image en entier au moins une fois
+  */
+  
+  #hatsune {
+    background-image: url(../img/hatsune.jpg);
+    background-size: cover;
+    /*
+      En cover, si l'image ne s'affiche pas, on va pouvoir recadrer l'image grace à : background-position: center | left | right | top | bottom
+    */
+    background-position: right center;
+  }
+  
+  #hatsune2 {
+    background-image: url(../img/hatsune.jpg);
+    background-size: contain;
+    /*
+      On peut définir la répétition selon l'axe ou de manière générale
+    */
+    background-repeat: no-repeat;
+  }
+  

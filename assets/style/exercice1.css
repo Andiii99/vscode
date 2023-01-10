@@ -1,0 +1,35 @@
+
+#deadpool{
+    width: 1200px;
+    position: absolute;
+    top: 20px; left: 20px;
+   
+    z-index: 1;
+}
+  /* #deadpool1{
+    width: 1400;
+   
+    position: absolute; 
+    top: 0; left: 0;
+    
+    z-index: 3;
+  } */
+
+
+  
+ #terre{
+    width: 40%;
+    padding: 40px;
+    position: absolute;
+    top: 60px; left: 60px;
+  
+    z-index: 2;
+}
+ #fur{
+    width: 25%;
+    padding: 50px;
+    position: absolute;
+    top: 80px; left: 80px;
+    
+    z-index: 4; 
+} 

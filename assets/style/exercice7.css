@@ -1,0 +1,49 @@
+.green{
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    border: 2px solid black;
+}
+.violet{
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-color: violet;
+    border: 2px solid black;
+}
+.chocolat{
+    
+    width: 1000px;
+    height: 200px;
+    background-color: chocolate;
+    border: 2px solid black;
+    clear: both;
+ 
+    
+   
+}
+.grey{
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-color: grey;
+    border: 2px solid black;
+    margin-right: 516px;
+    
+    
+}
+.yellow{
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border: 2px solid black;
+   
+
+}
+
+    
+
+
+

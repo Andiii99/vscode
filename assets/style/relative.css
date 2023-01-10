@@ -1,0 +1,37 @@
+.parent{
+    
+    background-color: rgb(11, 131, 11);
+    border: 2px solid black;
+    width: 600px;
+    height: 300px;
+    margin: 20px;
+  
+  
+  
+}
+.one{
+    background-color: blue;
+    width: 400px;
+    height: 150px;
+    position: relative;
+    top: 60px ;
+    left: 280px;
+    opacity: 0.5;
+    border: 2px solid black;
+    
+    
+}
+.two{
+    background-color:orange;
+    height: 75px;
+    width: 500px;
+    border: 1px solid black;
+    position: relative;
+    left: -30px;
+    top: -50px;
+
+
+
+    
+    
+}

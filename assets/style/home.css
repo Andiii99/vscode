@@ -1,0 +1,15 @@
+li{
+    background-color: blue;
+}
+.vert{
+    background-color: green;
+}
+[data-name="ha"]{
+    background-color: orange;
+}
+[data-name="ha"].vert{
+    background-color: green;
+}
+#rose{
+    background-color: pink;
+}

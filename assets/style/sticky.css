@@ -1,0 +1,24 @@
+
+body{
+    margin: 0;
+}
+.lien{
+    border: 5px solid black;
+    border-radius: 5px;
+    height: 70px;
+    padding: 50px;
+    background-color: orange;
+    position: sticky;
+    top: 0;
+    margin-left: 15px;
+
+
+}
+section{
+    display: flex;
+}
+p{
+    margin-left: 50px;
+    margin-top: 0;
+    
+}

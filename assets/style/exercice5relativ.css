@@ -1,0 +1,57 @@
+body{
+    margin: 10px;
+   
+  
+}
+.ciel{
+    
+    width: 750px;
+    height: 750px;
+    background-color: cornflowerblue;
+}
+.green{
+    position: relative;
+    background-color: green;
+    width: 300px;
+    height: 300px;
+    margin: 40px;
+    border: 2px solid black;
+    top: 30px;
+    box-sizing: border-box;
+   
+    
+}
+.blue{
+    position: relative;
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    margin: 40px;
+    border: 2px solid black;
+    left: 350px;
+    top: -310px;
+    box-sizing: border-box;
+    
+}
+.orange{
+    position: relative;
+    background-color: orangered;
+    width: 300px;
+    height: 300px;
+    margin: 40px;
+    border: 2px solid black;
+    top: -330px;
+    box-sizing: border-box;
+} 
+.yellow{
+    position: relative;
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    margin: 40px;
+    border: 2px solid black;
+    top: -670px;
+    left: 350px;
+    box-sizing: border-box;
+   
+}
