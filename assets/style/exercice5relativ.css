@@ -14,7 +14,7 @@ body{
     background-color: green;
     width: 300px;
     height: 300px;
-    margin: 40px;
+    left: 40px;
     border: 2px solid black;
     top: 30px;
     box-sizing: border-box;
@@ -26,10 +26,10 @@ body{
     background-color: blue;
     width: 300px;
     height: 300px;
-    margin: 40px;
+    
     border: 2px solid black;
-    left: 350px;
-    top: -310px;
+    left: 400px;
+    top: -270px;
     box-sizing: border-box;
     
 }
@@ -38,9 +38,9 @@ body{
     background-color: orangered;
     width: 300px;
     height: 300px;
-    margin: 40px;
+    left: 40px;
     border: 2px solid black;
-    top: -330px;
+    top: -250px;
     box-sizing: border-box;
 } 
 .yellow{
@@ -48,10 +48,10 @@ body{
     background-color: yellow;
     width: 300px;
     height: 300px;
-    margin: 40px;
+   
     border: 2px solid black;
-    top: -670px;
-    left: 350px;
+    top: -550px;
+    left: 400px;
     box-sizing: border-box;
    
 }
