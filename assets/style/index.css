@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+nav li{
+    list-style: none;
+    padding: 20px;
+   
+}
+nav li a{
+    text-decoration: none;
+}
+footer{
+    background-color: rgb(14, 14, 28);
+    padding: 90px;
+    color: white;
+}
